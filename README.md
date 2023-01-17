@@ -3,7 +3,7 @@
 It is a model which analyze reviews comments on video games on amazon by rating it from 1 to 5
 
 # Dataset
-it is amazon dataset on video games consists of:\
+it is amazon dataset on video games consists of:
 - overall	
 - verified	
 - reviewTime	
