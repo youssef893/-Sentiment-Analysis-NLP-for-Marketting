@@ -16,7 +16,8 @@ it is amazon dataset on video games consists of:
 - vote	
 - style	
 - image
-we used reviewText and over all and drops other columns
+we used reviewText and over all and drops other columns\
+
 Data has 497577 we use only 20000 and split it to 15000 train & 5000 validation due to colab resources
 
 # Model
